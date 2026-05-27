@@ -8,3 +8,4 @@
 请实现：本案例的VS中的相应项目Nuget安装Microsoft.EntityFrameworkCore.InMemory、Microsoft.AspNetCore.Identity.EntityFrameworkCore、Microsoft.AspNetCore.Identity.UI、Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore、Microsoft.EntityFrameworkCore.Sqlite、Microsoft.EntityFrameworkCore.SqlServer、Microsoft.EntityFrameworkCore.Tools、Microsoft.VisualStudio.Web.CodeGeneration.Design。
 
 然后基于上述编写C#代码实现：案例中的Identity功能（https://learn.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-8.0）。
+123
