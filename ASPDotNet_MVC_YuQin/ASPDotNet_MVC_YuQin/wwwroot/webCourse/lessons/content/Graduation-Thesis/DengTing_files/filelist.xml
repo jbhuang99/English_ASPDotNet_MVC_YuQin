@@ -1,7 +1,12 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../DengTing.htm"/>
+<<<<<<< HEAD
+ <o:File HRef="item0001.xml"/>
+ <o:File HRef="props002.xml"/>
+=======
  <o:File HRef="item0014.xml"/>
  <o:File HRef="props015.xml"/>
+>>>>>>> b084049ca950c7193884cc8489646f1ff5810de5
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.png"/>
